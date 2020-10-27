@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>iFrame</title>
+	<style type="text/css">
+		iframe{border: 15px solid green}
+		h1{text-align: center;font-family: cursive}
+		
+	</style>
+	</head>
+<body>
+	<h1> This is how iFrame works</h1>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	<iframe src="try.html"></iframe>
+	
+	</body>
+</html>
